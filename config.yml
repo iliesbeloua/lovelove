@@ -1,0 +1,3 @@
+backend:
+  name: github
+  repo: owner-name/repo-name # Path to your GitHub repository
