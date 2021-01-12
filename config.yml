@@ -1,3 +1,4 @@
 backend:
   name: github
-  repo: owner-name/repo-name # Path to your GitHub repository
+  repo: iliesbeloua/lovelove
+  preview_context: my-provider/deployment
